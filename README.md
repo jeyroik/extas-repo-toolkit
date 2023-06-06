@@ -4,7 +4,7 @@ Tool KIt for Extas repositories
 
 ![PHP Composer](https://github.com/jeyroik/extas-repo-toolkit/workflows/PHP%20Composer/badge.svg?branch=master)
 ![codecov.io](https://codecov.io/gh/jeyroik/extas-repo-toolkit/coverage.svg?branch=master)
-
+<a href="https://codeclimate.com/github/jeyroik/extas-repo-toolkit/maintainability"><img src="https://api.codeclimate.com/v1/badges/ee952ce758cfe922a2d7/maintainability" /></a>
 [![Latest Stable Version](https://poser.pugx.org/jeyroik/extas-repo-toolkit/v)](//packagist.org/packages/jeyroik/extas-repo-toolkit)
 [![Total Downloads](https://poser.pugx.org/jeyroik/extas-repo-toolkit/downloads)](//packagist.org/packages/jeyroik/extas-repo-toolkit)
 [![Dependents](https://poser.pugx.org/jeyroik/extas-repo-toolkit/dependents)](//packagist.org/packages/jeyroik/extas-repo-toolkit)
